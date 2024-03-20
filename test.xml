@@ -1,0 +1,22 @@
+<?xmlversion="1.0" encoding="utf-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+    <channel>
+        <title>Godtlevert</title>
+        <description>Godtlevert &apos;s Product List Feed</description>
+        <link>https://godtlevert.no</link>
+        <item>
+            <g:item_group_id>493d1a2e-748b-411e-b03f-568559373788</g:item_group_id>
+            <g:id>5c4b5eac-6b12-4471-bc5e-0078bab4935e</g:id>
+            <g:description>n/a</g:description>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:image_link>https://pimimages.azureedge.net/images/largeResized/7e7ee0e5-7f90-4023-97a9-2f64e47b7663.jpg</g:image_link>
+            <g:link>https://godtlevert.no/checkout/</g:link>
+            <g:title>Kyllingstrimler i tortilla med syltet rødkål, appelsin og hvitløksdressing</g:title>
+            <g:price>51.63 NOK</g:price>
+            <g:brand>Godtlevert</g:brand>
+            <g:custom_label_0>Kylling</g:custom_label_0>
+            <g:custom_label_2>15-20 min</g:custom_label_2>
+        </item>
+    </channel>
+</rss>
